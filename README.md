@@ -46,11 +46,11 @@ Creen soluciones innovadoras
 📫 Cómo Contactarme
 No dudes en contactarme a través de:
 
-Email: [tu email]
-LinkedIn: [tu perfil de LinkedIn]
-Twitter: [tu usuario de Twitter]
+Email: gacoronelok@gmail.com
+LinkedIn: https://www.linkedin.com/in/gabriela-coronel-43a0a4286/
+Twitter: https://x.com/LagabyOk]
 😄 Pronombres
-Él/Ellos
+ella- elle
 
 ⚡ Dato Divertido
 La curiosidad no solo mata al gato; ¡a mi me enseño a vivir la vida al 100! 🐱💻
