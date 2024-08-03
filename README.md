@@ -9,6 +9,7 @@ Artificial Intelligence
 Green skills for sustainability
 Node.js development
 
+
 💞️ Collaboration
 I'm looking to collaborate on projects that:
 Benefit society
