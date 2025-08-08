@@ -1,63 +1,42 @@
-👋 Hi, I’m @lagabyok
-👀 Interests
-I'm passionate about a blend of technology, artificial intelligence, law, and video games. 
-Combining these diverse fields helps me approach problems from unique perspectives and find innovative solutions.
+👋 Hey! Soy Gaby
+🌟 Curiosa por naturaleza, creativa  y techie por pasión.
+Me muevo en la intersección entre tecnología, inteligencia artificial, derecho y videojuegos.
+Para mí, mezclar estos mundos es como hacer alquimia: surgen ideas raras, divertidas… y, sobre todo, útiles para cambiar cosas que importan.
 
-🌱 Current Learning
-I'm diving deep into:
-Artificial Intelligence
-Green skills for sustainability
-Node.js development
+👀 Lo que me encanta
+💡 Proyectos creativos e innovadores que rompan moldes.
 
+🌍 Retos con impacto social y ambiental real.
 
-💞️ Collaboration
-I'm looking to collaborate on projects that:
-Benefit society
-Add value
-Create innovative solutions
+🎮 Tecnología con un toque lúdico (porque innovar también puede ser divertido).
 
-📫 Contact Me
-Feel free to reach out via:
-Email: gacoronelok@gmail.com
-LinkedIn: https://www.linkedin.com/in/gabriela-coronel-43a0a4286/
-Twitter: https://x.com/LagabyOk
-😄 Pronouns
-He/Him/His or They/Them/Theirs
+🛠️ Colaborar con gente que quiera aportar valor y cambiar la jugada.
+
+🌱 Lo que estoy aprendiendo ahora
+🤖 Inteligencia Artificial y Machine Learning.
+
+🧠 IA generativa aplicada a problemas del mundo real.
+
+✅ QA para que las ideas no solo suenen bien, sino que funcionen.
+
+📊 Data como brújula para tomar decisiones con impacto.
+
+💞️ Cómo me gusta colaborar
+Si trabajamos juntxs, será para crear algo que:
+✨ Ayude a las personas o al planeta.
+🚀 Salga de lo común.
+🎨 Tenga un toque creativo y disruptivo.
+
+📫 Cómo contactarme
+📧 Email: gacoronelok@gmail.com
+🔗 LinkedIn: Gabriela Coronel
+🐦 Twitter/X: @LagabyOk
+
+😄 Pronombres
+Ella / Elle
 
 ⚡ Fun Fact
-Curiosity didn’t just kill the cat; it taught me how to live life to the fullest!! 🐱💻
-
--------------------------------------------------
-👋 Hola, soy @lagabyok
-👀 Intereses
-Me apasionan la tecnología, la inteligencia artificial, la abogacía y los videojuegos. Combinar estos campos tan diversos me permite abordar los problemas desde perspectivas únicas y encontrar soluciones innovadoras.
-
-🌱 Aprendiendo Actualmente
-Estoy profundizando en:
-
-Inteligencia Artificial
-Habilidades verdes para la sostenibilidad
-Desarrollo con Node.js
-💞️ Colaboración
-Busco colaborar en proyectos que:
-
-Beneficien a la sociedad
-Aporten valor
-Creen soluciones innovadoras
-📫 Cómo Contactarme
-No dudes en contactarme a través de:
-
-Email: gacoronelok@gmail.com
-LinkedIn: https://www.linkedin.com/in/gabriela-coronel-43a0a4286/
-Twitter: https://x.com/LagabyOk]
-😄 Pronombres
-ella- elle
-
-⚡ Dato Divertido
-La curiosidad no solo mata al gato; ¡a mi me enseño a vivir la vida al 100! 🐱💻
+La curiosidad no solo mató al gato…
+a mí me enseñó a hackear la vida y vivirla en modo “game on” 🐱💻✨
 
 
-<!---
-lagabyok/lagabyok is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
