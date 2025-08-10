@@ -1,7 +1,7 @@
 # 👋 Hey! Soy Gaby  
 
 🌟 **Curiosa por naturaleza, creativa y techie por pasión.**  
-Me muevo en la intersección entre **tecnología, inteligencia artificial, derecho y videojuegos**.  
+Me muevo en la intersección entre **Tecnología, Inteligencia artificial, Musica, Abogacia y Videojuegos**.  
 Para mí, mezclar estos mundos es como hacer alquimia: surgen ideas raras, divertidas… y, sobre todo, **útiles para cambiar cosas que importan**.  
 
 ---
@@ -68,7 +68,7 @@ La curiosidad no solo mató al gato…
 # 👋 Hey! I'm Gaby  
 
 🌟 **Curious by nature, creative and techie by passion.**  
-I move at the intersection of **technology, artificial intelligence, law, and video games**.  
+I move at the intersection of **Technology, Artificial intelligence,Music, Law, and Video games**.  
 For me, blending these worlds is like alchemy: weird, fun ideas emerge… and, most importantly, **solutions that matter**.  
 
 ---
