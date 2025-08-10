@@ -30,6 +30,22 @@ Si trabajamos juntxs, será para crear algo que:
 
 ---
 
+## 🛠️ Skills  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+
+---
+
 ## 📫 Cómo contactarme  
 📧 **Email:** gacoronelok@gmail.com  
 🔗 **LinkedIn:** [Gabriela Coronel](https://www.linkedin.com/in/gabriela-coronel-43a0a4286/)  
@@ -48,55 +64,67 @@ La curiosidad no solo mató al gato…
 
 
 
----
 
-# 👋 Hey! I’m Gaby
+# 👋 Hey! I'm Gaby  
 
-🌟 **Curious by nature, creative, and techie by passion.**  
-I live at the intersection of **technology, artificial intelligence, law, and video games**.  
-For me, blending these worlds is like doing alchemy: weird ideas come up, fun concepts take shape, and most importantly—**useful solutions to change things that matter**.  
-
----
-
-## 👀 What I’m into / 
-- 💡 **Creative & innovative projects** that break the mold.  
-- 🌍 Challenges with real **social and environmental impact**.  
-- 🎮 Tech with a playful twist (because innovation can be fun too).  
-- 🛠️ Collaborating with people who want to **add value and change the game**.  
+🌟 **Curious by nature, creative and techie by passion.**  
+I move at the intersection of **technology, artificial intelligence, law, and video games**.  
+For me, blending these worlds is like alchemy: weird, fun ideas emerge… and, most importantly, **solutions that matter**.  
 
 ---
 
-## 🌱 Currently learning / Lo que estoy aprendiendo ahora
-- 🤖 **Artificial Intelligence** & Machine Learning.  
+## 👀 What I Love  
+- 💡 Creative and innovative projects that break the mold.  
+- 🌍 Challenges with real social and environmental impact.  
+- 🎮 Technology with a playful twist (because innovation can be fun too).  
+- 🛠️ Collaborating with people who want to bring value and change the game.  
+
+---
+
+## 🌱 What I'm Learning Now  
+- 🤖 Artificial Intelligence and Machine Learning.  
 - 🧠 Generative AI applied to real-world problems.  
-- ✅ QA so ideas don’t just sound good—they actually work.  
+- ✅ QA to ensure ideas not only sound good but actually work.  
 - 📊 Data as a compass for impactful decision-making.  
 
 ---
 
-## 💞️ How I like to collaborate / Cómo me gusta colaborar
+## 💞️ How I Like to Collaborate  
 If we work together, it will be to create something that:  
 ✨ Helps people or the planet.  
-🚀 Breaks the routine.  
-🎨 Has a creative and disruptive spark.  
+🚀 Stands out from the crowd.  
+🎨 Has a creative and disruptive touch.  
 
 ---
 
-## 📫 Let’s connect / Conectemos
+## 🛠️ Skills  
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)  
+![Generative AI](https://img.shields.io/badge/Generative_AI-FF6F00?style=for-the-badge&logo=openai&logoColor=white)  
+![Machine Learning](https://img.shields.io/badge/Machine_Learning-102230?style=for-the-badge&logo=tensorflow&logoColor=orange)  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white)  
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
+
+---
+
+## 📫 How to Reach Me  
 📧 **Email:** gacoronelok@gmail.com  
 🔗 **LinkedIn:** [Gabriela Coronel](https://www.linkedin.com/in/gabriela-coronel-43a0a4286/)  
 🐦 **Twitter/X:** [@LagabyOk](https://x.com/LagabyOk)  
 
 ---
 
-## 😄 Pronouns / Pronombres  
-She/Her or They/Them — Ella / Elle  
+## 😄 Pronouns  
+She / They  
 
 ---
 
-## ⚡ Fun Fact / Dato divertido  
+## ⚡ Fun Fact  
 Curiosity didn’t just kill the cat…  
-**it taught me to hack life and live it on “game on” mode** 🐱💻✨  
-
-
-
+**it taught me how to hack life and live it in “game on” mode** 🐱💻✨  
