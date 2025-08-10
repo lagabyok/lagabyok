@@ -17,7 +17,7 @@ Para mí, mezclar estos mundos es como hacer alquimia: surgen ideas raras, diver
 ## 🌱 Lo que estoy aprendiendo ahora  
 - 🤖 Inteligencia Artificial y Machine Learning.  
 - 🧠 IA generativa aplicada a problemas del mundo real.  
-- ✅ QA para que las ideas no solo suenen bien, sino que funcionen.  
+- ✅ QA para fortalecer proyectos.  
 - 📊 Data como brújula para tomar decisiones con impacto.  
 
 ---
