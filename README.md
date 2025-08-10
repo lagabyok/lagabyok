@@ -65,6 +65,8 @@ La curiosidad no solo mató al gato…
 
 
 
+---
+
 # 👋 Hey! I'm Gaby  
 
 🌟 **Curious by nature, creative and techie by passion.**  
