@@ -1,14 +1,28 @@
-# 👋 Hey! Soy Gaby  
+# 👋 Hey! Soy Gabriela Coronel
+**Consultora de Tecnología, IA y UX | Visionaria que transforma problemas complejos en soluciones humanas.**
+
 
 🌟 **Curiosa por naturaleza, creativa y techie por pasión.**  
 Me muevo en la intersección entre **Tecnología, Inteligencia artificial, Musica, Abogacia y Videojuegos**.  
 Para mí, mezclar estos mundos es como hacer alquimia: surgen ideas raras, divertidas… y, sobre todo, **útiles para cambiar cosas que importan**.  
 
 ---
+### **¿Qué ofrezco?**
 
-## 👀 Lo que me encanta  
+En mi mundo, la tecnología no es solo código; es una herramienta para resolver problemas reales. Utilizo la IA, el Machine Learning y el desarrollo de software para crear soluciones que no solo funcionan, sino que **conectan con las personas** y generan un impacto tangible.
+
+Soy una experta en fusionar mundos: mi experiencia legal y mi pasión por los videojuegos y la música me dan una perspectiva única y disruptiva.
+
+* **Especialidades:**
+    * **Inteligencia Artificial:** Agentes de IA, Machine Learning y modelos generativos aplicados a desafíos de negocio.
+    * **UX/IX Research:** Diseño de experiencias centradas en el usuario, guiadas por datos para asegurar que cada interacción cuente.
+    * **Desarrollo Web y Desarollo de Software:** Creación de soluciones a medida en Python, R y Node.js.
+
+---
+
+## 👀 * **Mi Visión:**
 - 💡 Proyectos creativos e innovadores que rompan moldes.  
-- 🌍 Retos con impacto social y ambiental real.  
+- 🌍 Retos con impacto  real.  
 - 🎮 Tecnología con un toque lúdico (porque innovar también puede ser divertido).  
 - 🛠️ Colaborar con gente que quiera aportar valor y cambiar la jugada.  
 
@@ -18,7 +32,8 @@ Para mí, mezclar estos mundos es como hacer alquimia: surgen ideas raras, diver
 - 🤖 Inteligencia Artificial y Machine Learning.  
 - 🧠 IA generativa aplicada a problemas del mundo real.  
 - ✅ QA para fortalecer proyectos.  
-- 📊 Data como brújula para tomar decisiones con impacto.  
+- 📊 Data como brújula para tomar decisiones con impacto.
+- 
 
 ---
 
@@ -46,6 +61,13 @@ Si trabajamos juntxs, será para crear algo que:
 
 ---
 
+### **Proyectos Destacados**
+
+* [Link a tu repositorio del proyecto de clasificación de oscuridad]
+* [Link a tu repositorio del proyecto del webinar]
+
+
+---
 ## 📫 Cómo contactarme  
 📧 **Email:** gacoronelok@gmail.com  
 🔗 **LinkedIn:** [Gabriela Coronel](https://www.linkedin.com/in/gabriela-coronel-43a0a4286/)  
@@ -63,11 +85,11 @@ La curiosidad no solo mató al gato…
 **a mí me enseñó a hackear la vida y vivirla en modo “game on”** 🐱💻✨  
 
 
-
-
 ---
 
-# 👋 Hey! I'm Gaby  
+
+# 👋 Hey! I'm Gabriela Coronel
+**Technology, AI, and UX Consultant | Visionary who transforms complex problems into human solutions.**
 
 🌟 **Curious by nature, creative and techie by passion.**  
 I move at the intersection of **Technology, Artificial intelligence,Music, Law, and Video games**.  
@@ -75,11 +97,26 @@ For me, blending these worlds is like alchemy: weird, fun ideas emerge… and, m
 
 ---
 
-## 👀 What I Love  
-- 💡 Creative and innovative projects that break the mold.  
-- 🌍 Challenges with real social and environmental impact.  
-- 🎮 Technology with a playful twist (because innovation can be fun too).  
-- 🛠️ Collaborating with people who want to bring value and change the game.  
+### **What Do I Offer?**
+
+In my world, technology is not just code; it’s a tool to solve real problems. I use AI, Machine Learning, and software development to create solutions that not only work, but also **connect with people** and generate tangible impact.  
+
+I’m an expert at merging worlds: my legal background combined with my passion for video games and music gives me a unique and disruptive perspective.  
+
+* **Specialties:**
+    * **Artificial Intelligence:** AI agents, Machine Learning, and generative models applied to business challenges.  
+    * **UX/IX Research:** Designing user-centered experiences, guided by data to ensure every interaction matters.  
+    * **Web & Software Development:** Tailored solutions in Python, R, and Node.js.  
+
+---
+
+## 👀 * **My Vision:**
+- 💡 Creative and innovative projects that break molds.  
+- 🌍 Challenges with real impact.  
+- 🎮 Technology with a playful touch (because innovation can also be fun).  
+- 🛠️ Collaborating with people who want to add value and change the game.  
+
+---
 
 ---
 
