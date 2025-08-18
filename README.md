@@ -63,8 +63,8 @@ Si trabajamos juntxs, será para crear algo que:
 
 ### **Proyectos Destacados**
 
-* [Link a tu repositorio del proyecto de clasificación de oscuridad]
-* [Link a tu repositorio del proyecto del webinar]
+* [Link]
+* [Link ]
 
 
 ---
@@ -150,6 +150,11 @@ If we work together, it will be to create something that:
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)  
 
+---
+
+### **Featured Projects**
+* [Link]
+* [Link ]
 ---
 
 ## 📫 How to Reach Me  
